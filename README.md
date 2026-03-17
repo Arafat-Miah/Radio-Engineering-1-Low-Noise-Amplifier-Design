@@ -56,8 +56,6 @@ The results showed that proper input matching significantly improved both noise 
 
 - `report/` — final accepted project report
 - `assignment/` — original course design brief
-- `images/` — schematics, Smith charts, and result plots
-- `notes/` — optional hand calculations and supporting notes
 
 ## Tool Used
 
